@@ -1,0 +1,38 @@
+C:\Users\Admin\Desktop\OnlineContract 2.0\Regression\Regression\bin\Debug\Regression.exe.config
+C:\Users\Admin\Desktop\OnlineContract 2.0\Regression\Regression\bin\Debug\Regression.exe
+C:\Users\Admin\Desktop\OnlineContract 2.0\Regression\Regression\bin\Debug\Regression.pdb
+C:\Users\Admin\Desktop\OnlineContract 2.0\Regression\Regression\obj\Debug\Regression.Form_Main.resources
+C:\Users\Admin\Desktop\OnlineContract 2.0\Regression\Regression\obj\Debug\Regression.Properties.Resources.resources
+C:\Users\Admin\Desktop\OnlineContract 2.0\Regression\Regression\obj\Debug\Regression.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\OnlineContract 2.0\Regression\Regression\obj\Debug\Regression.exe
+C:\Users\Admin\Desktop\OnlineContract 2.0\Regression\Regression\obj\Debug\Regression.pdb
+C:\Users\Admin\Desktop\Regression\Regression\bin\Debug\Regression.exe.config
+C:\Users\Admin\Desktop\Regression\Regression\obj\Debug\Regression.exe
+C:\Users\Admin\Desktop\Regression\Regression\obj\Debug\Regression.pdb
+C:\Users\Admin\Desktop\Regression\Regression\bin\Debug\Regression.exe
+C:\Users\Admin\Desktop\Regression\Regression\bin\Debug\Regression.pdb
+C:\Users\Admin\Desktop\Regression\Regression\obj\Debug\Regression.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Regression\Regression\obj\Debug\Regression.Form_Main.resources
+C:\Users\Admin\Desktop\Regression\Regression\obj\Debug\Regression.Properties.Resources.resources
+C:\Users\Admin\Desktop\Regression\Regression\obj\Debug\Regression.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\bin\Debug\Regression.exe.config
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\obj\Debug\Regression.exe
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\obj\Debug\Regression.pdb
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\bin\Debug\Regression.exe
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\bin\Debug\Regression.pdb
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\obj\Debug\Regression.Form_Main.resources
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\obj\Debug\Regression.Properties.Resources.resources
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\obj\Debug\Regression.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\bin\Debug\Emgu.Util.dll
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\bin\Debug\Emgu.CV.dll
+C:\Users\Admin\Desktop\Line Detection\Regression\Regression\obj\Debug\Regression.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\bin\Debug\Regression.exe.config
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\Regression.exe
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\Regression.pdb
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\bin\Debug\Regression.exe
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\bin\Debug\Regression.pdb
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\Regression.Form_Main.resources
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\Regression.Properties.Resources.resources
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\Regression.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\Regression.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\bin\Debug\LineDetection.exe.config
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\bin\Debug\LineDetection.exe
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\bin\Debug\LineDetection.pdb
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\Linedetection.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\Regression.Form_Main.resources
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\LineDetection.Properties.Resources.resources
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\Linedetection.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\LineDetection.exe
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\Regression\obj\Debug\LineDetection.pdb
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\LineDetection\bin\Debug\LineDetection.exe.config
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\LineDetection\obj\Debug\LineDetection.exe
+C:\Users\Admin\Desktop\Research\Line Detection\Regression\LineDetection\obj\Debug\LineDetection.pdb

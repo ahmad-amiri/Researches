@@ -1,0 +1,7 @@
+E:\Private\InterpolationsLab\InterpolationsLab\bin\Debug\InterpolationsLab.exe
+E:\Private\InterpolationsLab\InterpolationsLab\bin\Debug\InterpolationsLab.pdb
+E:\Private\InterpolationsLab\InterpolationsLab\obj\x86\Debug\InterpolationsLab.FormInterpolationLab.resources
+E:\Private\InterpolationsLab\InterpolationsLab\obj\x86\Debug\InterpolationsLab.Properties.Resources.resources
+E:\Private\InterpolationsLab\InterpolationsLab\obj\x86\Debug\InterpolationsLab.csproj.GenerateResource.Cache
+E:\Private\InterpolationsLab\InterpolationsLab\obj\x86\Debug\InterpolationsLab.exe
+E:\Private\InterpolationsLab\InterpolationsLab\obj\x86\Debug\InterpolationsLab.pdb
